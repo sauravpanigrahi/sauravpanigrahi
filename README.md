@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey there, I'm Saurav Panigrahi</h1>
 <h3 align="center">Full Stack Developer | Building Scalable Solutions | Open Source Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sauravpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="sauravpanigrahi" />
-</p>
+</p> -->
 
 <p align="center">
   <em>Passionate about crafting elegant solutions to complex problems. Currently diving deep into cloud architecture and modern web technologies.</em>
@@ -23,13 +23,14 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravpanigrahi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravpanigrahi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravpanigrahi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravpanigrahi&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%"/>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravpanigrahi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravpanigrahi&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sauravpanigrahi&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&custom_title=Overall%20Stats" alt="Overall Stats" width="48%"/> -->
 </p>
 
 ---
